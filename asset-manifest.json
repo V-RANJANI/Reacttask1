@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/V-RANJANI/Reacttask1/static/css/main.88d053a8.css",
-    "main.js": "/V-RANJANI/Reacttask1/static/js/main.4256782a.js",
-    "index.html": "/V-RANJANI/Reacttask1/index.html",
-    "main.88d053a8.css.map": "/V-RANJANI/Reacttask1/static/css/main.88d053a8.css.map",
-    "main.4256782a.js.map": "/V-RANJANI/Reacttask1/static/js/main.4256782a.js.map"
+    "main.css": "/Reacttask1/static/css/main.88d053a8.css",
+    "main.js": "/Reacttask1/static/js/main.4256782a.js",
+    "index.html": "/Reacttask1/index.html",
+    "main.88d053a8.css.map": "/Reacttask1/static/css/main.88d053a8.css.map",
+    "main.4256782a.js.map": "/Reacttask1/static/js/main.4256782a.js.map"
   },
   "entrypoints": [
     "static/css/main.88d053a8.css",
